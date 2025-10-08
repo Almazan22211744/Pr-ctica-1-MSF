@@ -2,7 +2,7 @@
 # Práctica 1: Diseño de controladores
 
 ## Información del estudiante
-Nombres y Apellidos \[No. Control]; correo institucional
+Maria Fernanda Almazan Pacheco \[22211744]; L22211744@tectijuana.edu.mx
 
 Modelado de Sistemas Fisiológicos
 
